@@ -1,1 +1,1 @@
-# rsschool-cv
+https://gavrillavigne.github.io/rsschool-cv/cv
