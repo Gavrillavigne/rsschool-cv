@@ -10,6 +10,7 @@
 | **LinkedIn:** | **[www.linkedin.com/in/shaurylchyk][PlGa]** |
 
 # OBJECTIVE
+
 | Desired Position: | Full Stack Web Developer |
 | ------ | ------ |
 
@@ -43,6 +44,7 @@ I also have commercial development experience. About six months I work as a Juni
 >I am married since 2018 and I have a military ID. I prefer a healthy lifestyle like traveling, biking, camping and so on. I also like playing the guitar. I am free of the bad habits. I always try to find the way from difficult situation by myself.
 
 # COURSES AND CERTIFICATES
+
 | Course name: | PHP UP "Advanced PHP programming course" |
 | ------ | ------ |
 | **Issued:** | **Online video courses https://php-up.com** |
@@ -59,12 +61,14 @@ I also have commercial development experience. About six months I work as a Juni
 | **Years of study:** | **2015** |
 
 # PROJECTS
+
 | Type: | Site-portfolio for a make-up artist |
 | ------ | ------ |
 | **Link to the repository:** | **https://bitbucket.org/stanislau-haurylchyk/sk-stylist.com/src/master/** |
 | **Current state:** | **The site is under development** |
 
 # PROFESSIOANL EXPERIENCE
+
 | Company: | HOT TELECOM |
 | ------ | ------ |
 | **Company Web Site:** | **www.hottelecom.by** |
