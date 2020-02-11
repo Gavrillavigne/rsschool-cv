@@ -7,7 +7,7 @@
 | **Mobile:** | **+375 (29) 368-21-58** |
 | **E-mail:** | **stanislau.haurylchyk@gmail.com** |
 | **Skype:** | **gavrillavigne** |
-| **LinkedIn:** | **[www.linkedin.com/in/shaurylchyk][PlGa]** |
+| **LinkedIn:** | **www.linkedin.com/in/shaurylchyk** |
 
 # OBJECTIVE
 

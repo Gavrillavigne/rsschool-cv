@@ -1,0 +1,61 @@
+.main-content {
+  max-width: 1024px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+  text-align: center;
+  background-image: url("/img/background-for-name.jpg");
+}
+
+h2 {
+  padding-bottom: 0.3em;
+  color: #0086B3;
+  border-bottom: 1px solid #eaecef;
+}
+
+table {
+  margin-top: 0;
+  margin-bottom: 16px;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  text-align: left;
+}
+
+.main-content table th {
+  font-weight: 600;
+  background-color: #ADD8E6;
+}
+
+.main-content table th,
+.main-content table td {
+  padding: 6px 13px;
+  font-weight: bolder;
+  border: 1px solid #dfe2e5;
+}
+
+.main-content table tr {
+  font-weight: bolder;
+  background-color: #ffffff;
+  border-top: 1px solid #c6cbd1;
+}
+
+.main-content table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+.cv-photo {
+  float: left;
+  border-radius: 10%;
+}
+
+.main-content blockquote {
+  padding: 0 1em;
+  margin: 0;
+  color: #6a737d;
+  border-left: 0.25em solid #dfe2e5;
+}
